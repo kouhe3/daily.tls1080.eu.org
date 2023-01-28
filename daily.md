@@ -24,3 +24,8 @@ http://motherfuckingwebsite.com/
 
 扯点别的，我觉得图片很占空间。图片比文本文件大多了。
 TiddlyWiki太大了。一个HTML里保存的不仅仅是文章，还有一堆JS，css。如果我们只在TXT里保存文章内容。TXT会非常小。
+
+
+# 2023-01-28T07:36:06
+
+正在想办法写个flow自动推送内容到cf pages
