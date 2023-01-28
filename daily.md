@@ -17,7 +17,7 @@ http://motherfuckingwebsite.com/
 
 我考虑过图片该怎么办。我希望我的文本文件像hackernews那样，真的是只有文本。所以遇到图片就只能放外链了。
 
-![img.png](img.png)
+`![img.png](img.png)`
 
 哇，这样真的蛋疼。把图片放在本地。
 我还是找个图床吧。
