@@ -1,6 +1,6 @@
 md文件下载 [daily.md](daily.md)
 
-# 2023-01-27T16:15:42
+# 2023-01-27T16:15:42Z
 
 我被tiddlywiki的单文件震撼到了。我现在要把所有的博客文章全部塞进同一个文件里。我觉得纯文本应该会很小 。就算三国演义也只占1.14MiB.
 
@@ -9,7 +9,7 @@ md文件下载 [daily.md](daily.md)
 我现在也要每天写，看看这个md文件最后会变成什么样子 XD.
 
 
-# 2023-01-28T03:01:25
+# 2023-01-28T03:01:25Z
 
 看看这个网站，没有乱七八糟的JS和css。只有单纯的内容。
 http://motherfuckingwebsite.com/
@@ -28,8 +28,31 @@ http://motherfuckingwebsite.com/
 TiddlyWiki太大了。一个HTML里保存的不仅仅是文章，还有一堆JS，css。如果我们只在TXT里保存文章内容。TXT会非常小。
 
 
-# 2023-01-28T07:36:06
+# 2023-01-28T07:36:06Z
 
 正在想办法写个flow自动推送内容到cf pages. 目前用的是阿里云云效。
 ~~免费 5400分钟/月，不要白不要~~
+
+# 2023-01-29T08:04:34Z
+
+我发现了一个非常简洁的blog:
+
+* https://phenix3443.github.io/notebook/
+
+还发现了几个简洁的hugo theme:
+
+* https://themes.gohugo.io/themes/accessible-minimalism-hugo-theme/
+* https://themes.gohugo.io/themes/hugo-theme-sk1/
+
+
+# 2023-01-29T16:10:39Z
+
+我找到了一个关于纯文本的博客, 不过作者已经停止更新了. 这个博客记载了作者在日常生活里使用纯文本的经历:
+
+* https://plaintextproject.online/index.html
+* [替代域名](https://scottnesbitt.gitlab.io)
+
+我要不要把 .md 换成 .txt? 毕竟我写md可不是为了渲染HTML。
+
+Mediawiki的讨论页给了我灵感，我以前以为论坛必须要一堆帖串葫芦组成页面，但是Mediawiki的讨论页实际上是一个超长的层次分明的wiki页面。回复一个人，其实就是在那个人的发言下面插入一行文字。我觉得这是很好的做法，因为单个wiki页面容易备份，而且层次分明的布局我很喜欢。说不定，不仅可以拿TXT写日记，写博客，还能做论坛。只要有合适的协作工具...
 
